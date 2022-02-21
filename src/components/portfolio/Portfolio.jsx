@@ -6,7 +6,7 @@ import {
   webPortfolio,
   mobilePortfolio,
   designPortfolio,
-  contentPortfolio,
+  contentPortfolio
 } from "../../data";
 
 export default function Portfolio() {
@@ -15,24 +15,24 @@ export default function Portfolio() {
   const list = [
     {
       id: "featured",
-      title: "Featured",
-    },
-    {
-      id: "web",
-      title: "Web App",
-    },
-    {
-      id: "mobile",
-      title: "Mobile App",
-    },
-    {
-      id: "design",
-      title: "Design",
-    },
-    {
-      id: "content",
-      title: "Content",
-    },
+      title: "Projects"
+    }
+    //   {
+    //     id: "web",
+    //     title: "Web App",
+    //   },
+    //   {
+    //     id: "mobile",
+    //     title: "Mobile App",
+    //   },
+    //   {
+    //     id: "design",
+    //     title: "Design",
+    //   },
+    //   {
+    //     id: "content",
+    //     title: "Content",
+    //   },
   ];
 
   useEffect(() => {
@@ -73,10 +73,7 @@ export default function Portfolio() {
       <div className="container">
         {data.map((d) => (
           <div className="item">
-            <img
-              src={d.img}
-              alt=""
-            />
+            <img src={d.img} alt="" />
             <h3>{d.title}</h3>
           </div>
         ))}
