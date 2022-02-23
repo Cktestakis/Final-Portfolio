@@ -16,17 +16,17 @@ export default function Testimonials() {
       title: "Project Partner",
       img: "assets/mandee.png",
       icon: "assets/linkedin.png",
-      desc: "Cody is a fantastic professional who brings all of the skills and expertise in app development. We were part of a team and worked for two projects during our bootcamp journey and the way he handles the errors is genuinely remarkable. He is a hardworking and dedicated person who will complete your project in a given time frame. He is professional, helpful, and positive person. It is a pleasure and honor to recommend Cody Ktestakis to anyone who wants to hire him. He is truly a gem. ",
+      desc: "Cody is a fantastic professional who brings all of the skills and expertise in app development. We were part of a team and worked for two projects during our bootcamp journey and the way he handles the errors is genuinely remarkable. He is a hardworking and dedicated person who will complete your project in a given time frame. He is professional, helpful, and positive person.",
       featured: true,
     },
-    {
-      id: 3,
-      name: "Martin Harold",
-      title: "CEO of ALBI",
-      img: "https://images.pexels.com/photos/3863793/pexels-photo-3863793.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-      icon: "assets/linkedin.png",
-      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem",
-    },
+    // {
+    //   id: 3,
+    //   name: "Martin Harold",
+    //   title: "CEO of ALBI",
+    //   img: "https://images.pexels.com/photos/3863793/pexels-photo-3863793.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    //   icon: "assets/linkedin.png",
+    //   desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem",
+    // },
   ];
   return (
     <div className="testimonials" id="testimonials">

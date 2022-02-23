@@ -6,7 +6,7 @@ export default function Works() {
   const data = [
     {
       id: "1",
-      icon: "./assets/mobile.png",
+      icon: "./assets/heart.png",
       title: "Quality Assurance",
       desc:
         "Completing Quality work with inspections for the transcatheter heart valve and testing medical devices and calibrating equipment for testing ",
