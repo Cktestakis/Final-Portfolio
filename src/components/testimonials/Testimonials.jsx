@@ -8,7 +8,7 @@ export default function Testimonials() {
       title: "Assistant Quality Control Manager",
       img: "assets/madison.png",
       icon: "assets/linkedin.png",
-      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem.",
+      desc: "Cody is a professional and dependable asset to have on any team. Cody has helped develop a validation system, working well with others and alone on projects It is a pleasure to work with Cody knowing he will get the job done no matter the deadline given..",
     },
     {
       id: 2,
@@ -16,7 +16,7 @@ export default function Testimonials() {
       title: "Project Partner",
       img: "assets/mandee.png",
       icon: "assets/linkedin.png",
-      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem recusandae perspiciatis ducimus vel hic temporibus. ",
+      desc: "Cody is a fantastic professional who brings all of the skills and expertise in app development. We were part of a team and worked for two projects during our bootcamp journey and the way he handles the errors is genuinely remarkable. He is a hardworking and dedicated person who will complete your project in a given time frame. He is professional, helpful, and positive person. It is a pleasure and honor to recommend Cody Ktestakis to anyone who wants to hire him. He is truly a gem. ",
       featured: true,
     },
     {
