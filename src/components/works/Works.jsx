@@ -18,7 +18,7 @@ export default function Works() {
       icon: "./assets/globe.png",
       title: "Quality Assurance Specialist",
       desc:
-        "Revising work processes to improve faster and better-quality while leading a qaulity team through external audits and 100% quality inspections for our medical equipment.",
+        "Revising work processes to improve faster and better-quality while leading a quality team through external audits and 100% quality inspections for our medical equipment.",
       img:
         "https://i.pinimg.com/originals/e9/c9/2f/e9c92f7869d682a6fa5a97fb8a298f30.jpg"
     },
